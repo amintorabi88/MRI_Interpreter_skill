@@ -1,0 +1,18 @@
+{
+  "name": "mri-interpreter",
+  "version": "1.0.0",
+  "description": "Draft follow-up MRI and CT reports from prior reports and clinician-supplied interval findings for radiologist review.",
+  "author": {
+    "name": "Amin"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "MRI Interpreter",
+    "shortDescription": "Draft follow-up MRI and CT reports.",
+    "longDescription": "Draft follow-up MRI and CT reports from prior reports and clinician-supplied interval findings for radiologist review.",
+    "developerName": "Amin",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me draft a follow-up report from a prior report and my current findings."
+  }
+}

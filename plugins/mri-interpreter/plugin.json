@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "mri-interpreter",
+  "version": "1.0.0",
+  "description": "Draft follow-up MRI and CT reports from prior reports and clinician-supplied interval findings for radiologist review."
+}
